@@ -1,0 +1,46 @@
+<resources>
+    <string name="app_name">WikiTec</string>
+
+    <!-- Strings related to inicio -->
+    <string name="iniciar">INICIAR</string>
+    <string name="title_activity_login">Sign in</string>
+
+    <!-- Strings related to login -->
+    <string name="prompt_email">Correo</string>
+    <string name="prompt_password">Contraseña</string>
+    <string name="action_sign_in">Registrar</string>
+    <string name="action_sign_in_short">Entrar</string>
+    <string name="error_invalid_email_password">La dirección de correo o la contraseña son incorrectos</string>
+    <string name="User_and_pass_olvidado">¿Has olvidado tu usuario o contraseña?</string>
+
+    <!-- Strings related application context -->
+    <string name="My_Library">|  DE MI BIBLIOTECA</string>
+    <string name="Liniamientos">|  LINEAMIENTOS</string>
+    <string name="Certificado">|  CERTIFICADOS FORMATOS</string>
+    <string name="Residencias">|  RESIDENCIAS FORMATOS</string>
+    <string name="ServicioSocial">|  SERVICIO SOCIAL FORMATOS</string>
+    <string name="Titulacion">|  TITULACIÓN FORMATOS</string>
+    <string name="Inicio">HOME</string>
+    <string name="Library">BIBLIOTECA</string>
+    <string name="More">MÁS</string>
+    <string name="title_activity_lll">lll</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+
+    <!-- Strings related to more -->
+    <string name="Que_hay">¿Qué hay aquí?</string>
+    <string name="inf">Información</string>
+    <string name="feedback">Ayuda y valoraciones</string>
+
+    <!-- Strings related to Register -->
+    <string name="Email_Reg">Correo</string>
+    <string name="PassReg">Contraseña</string>
+    <string name="Name">Nombre</string>
+    <string name="FirstName">Apellido Paterno</string>
+    <string name="SecondName">Apellido Materno</string>
+    <string name="Nivel">Nivel</string>
+
+
+
+</resources>
